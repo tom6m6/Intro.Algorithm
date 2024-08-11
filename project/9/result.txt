@@ -1,0 +1,95 @@
+RBTree Insert100 Time:0ms
+RBTree Insert1000 Time:0ms
+RBTree Insert10000 Time:2ms
+RBTree Insert100000 Time:24ms
+RBTree Insert1000000 Time:435ms
+
+
+RBTree Insert100 Time:0ms
+RBTree Insert1000 Time:0ms
+RBTree Insert10000 Time:2ms
+RBTree Insert100000 Time:26ms
+RBTree Insert1000000 Time:477ms
+
+Random Case:
+Normal BST Insert 100 Time:0ms
+Normal BST Search 10 in 100 Time: 0ms
+Normal BST Search 100 in 100 Time: 0ms
+Normal BST Search 1000 in 100 Time: 0ms
+Normal BST Insert 1000 Time:0ms
+Normal BST Search 100 in 1000 Time: 0ms
+Normal BST Search 1000 in 1000 Time: 0ms
+Normal BST Search 10000 in 1000 Time: 0ms
+Normal BST Insert 10000 Time:1ms
+Normal BST Search 1000 in 10000 Time: 1ms
+Normal BST Search 10000 in 10000 Time: 0ms
+Normal BST Search 100000 in 10000 Time: 4ms
+Normal BST Insert 100000 Time:20ms
+Normal BST Search 10000 in 100000 Time: 2ms
+Normal BST Search 100000 in 100000 Time: 14ms
+Normal BST Search 1000000 in 100000 Time: 33ms
+Normal BST Insert 1000000 Time:550ms
+Normal BST Search 100000 in 1000000 Time: 44ms
+Normal BST Search 1000000 in 1000000 Time: 569ms
+Normal BST Search 10000000 in 1000000 Time: 3343ms
+
+RBTree Insert 100 Time:0ms
+RBTree Search 10 in 100 Time: 0ms
+RBTree Search 100 in 100 Time: 0ms
+RBTree Search 1000 in 100 Time: 0ms
+RBTree Insert 1000 Time:1ms
+RBTree Search 100 in 1000 Time: 0ms
+RBTree Search 1000 in 1000 Time: 0ms
+RBTree Search 10000 in 1000 Time: 1ms
+RBTree Insert 10000 Time:1ms
+RBTree Search 1000 in 10000 Time: 0ms
+RBTree Search 10000 in 10000 Time: 1ms
+RBTree Search 100000 in 10000 Time: 5ms
+RBTree Insert 100000 Time:23ms
+RBTree Search 10000 in 100000 Time: 3ms
+RBTree Search 100000 in 100000 Time: 17ms
+RBTree Search 1000000 in 100000 Time: 49ms
+RBTree Insert 1000000 Time:536ms
+RBTree Search 100000 in 1000000 Time: 48ms
+RBTree Search 1000000 in 1000000 Time: 456ms
+RBTree Search 10000000 in 1000000 Time: 822ms
+
+Increase Case:
+RBTree Insert 100 Time:0ms
+RBTree Search 10 in 100 Time: 0ms
+RBTree Search 100 in 100 Time: 0ms
+RBTree Search 1000 in 100 Time: 1ms
+RBTree Insert 1000 Time:0ms
+RBTree Search 100 in 1000 Time: 1ms
+RBTree Search 1000 in 1000 Time: 0ms
+RBTree Search 10000 in 1000 Time: 0ms
+RBTree Insert 10000 Time:2ms
+RBTree Search 1000 in 10000 Time: 0ms
+RBTree Search 10000 in 10000 Time: 1ms
+RBTree Search 100000 in 10000 Time: 7ms
+RBTree Insert 100000 Time:12ms
+RBTree Search 10000 in 100000 Time: 2ms
+RBTree Search 100000 in 100000 Time: 15ms
+RBTree Search 1000000 in 100000 Time: 51ms
+RBTree Insert 1000000 Time:145ms
+RBTree Search 100000 in 1000000 Time: 48ms
+RBTree Search 1000000 in 1000000 Time: 432ms
+RBTree Search 10000000 in 1000000 Time: 775ms
+
+Normal BST Insert 100 Time:0ms
+Normal BST Search 10 in 100 Time: 0ms
+Normal BST Search 100 in 100 Time: 0ms
+Normal BST Search 1000 in 100 Time: 0ms
+Normal BST Insert 1000 Time:1ms
+Normal BST Search 100 in 1000 Time: 0ms
+Normal BST Search 1000 in 1000 Time: 1ms
+Normal BST Search 10000 in 1000 Time: 10ms
+Normal BST Insert 10000 Time:67ms
+Normal BST Search 1000 in 10000 Time: 10ms
+Normal BST Search 10000 in 10000 Time: 105ms
+Normal BST Search 100000 in 10000 Time: 1121ms
+Normal BST Insert 100000 Time:13223ms
+Normal BST Search 10000 in 100000 Time: 987ms
+Normal BST Search 100000 in 100000 Time: 15346ms
+Normal BST Search 1000000 in 100000 Time: 57516ms
+

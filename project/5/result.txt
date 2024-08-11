@@ -1,0 +1,37 @@
+This is the test for rand-select algorithm:
+Task2:random 1e2,1e3,1e4,1e5,1e6, get 0.5N big num:
+0.5N: 25189978 Scale: 100 Time: 0ms
+0.5N: 33041373 Scale: 1000 Time: 0ms
+0.5N: 33370973 Scale: 10000 Time: 0ms
+0.5N: 33265175 Scale: 100000 Time: 2ms
+0.5N: 33328247 Scale: 1000000 Time: 12ms
+Task3:random 1e6, get 0.2N,0.4N,0.6N,0.8N big num:
+0.2N:13332520 Time: 14ms
+0.4N:26632486 Time: 23ms
+0.6N:40011801 Time: 27ms
+0.8N:53340251 Time: 29ms
+Task4:increase 1e2,1e3,1e4,1e5,1e6, get 0.5N big num:
+0.5N: 25189978 Scale: 100 Time: 0ms
+0.5N: 33041373 Scale: 1000 Time: 1ms
+0.5N: 33370973 Scale: 10000 Time: 1ms
+0.5N: 33265175 Scale: 100000 Time: 1ms
+0.5N: 33328247 Scale: 1000000 Time: 49ms
+
+This is the test for SELECT algorithm:
+Task2:random 1e2,1e3,1e4,1e5,1e6, get 0.5N big num:
+0.5N: 25189978 Scale: 100 Time: 1ms
+0.5N: 33041373 Scale: 1000 Time: 0ms
+0.5N: 33370973 Scale: 10000 Time: 2ms
+0.5N: 33265175 Scale: 100000 Time: 5ms
+0.5N: 33328247 Scale: 1000000 Time: 43ms
+Task3:random 1e6, get 0.2N,0.4N,0.6N,0.8N big num:
+0.2N:13332520 Time: 43ms
+0.4N:26632486 Time: 36ms
+0.6N:40011801 Time: 34ms
+0.8N:53340251 Time: 37ms
+Task4:increase 1e2,1e3,1e4,1e5,1e6, get 0.5N big num:
+0.5N: 25189978 Scale: 100 Time: 0ms
+0.5N: 33041373 Scale: 1000 Time: 0ms
+0.5N: 33370973 Scale: 10000 Time: 0ms
+0.5N: 33265175 Scale: 100000 Time: 2ms
+0.5N: 33328247 Scale: 1000000 Time: 25ms

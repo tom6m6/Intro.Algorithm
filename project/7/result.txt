@@ -1,0 +1,127 @@
+开放寻址法(线性)
+Hash Table MAX Size:10000000
+Scale:100Proportion:1e-005
+Insert100Time cost:0ms
+Query100Time cost:0ms
+Scale:1000Proportion:0.0001
+Insert1000Time cost:0ms
+Query1000Time cost:0ms
+Scale:10000Proportion:0.001
+Insert10000Time cost:0ms
+Query10000Time cost:0ms
+Scale:100000Proportion:0.01
+Insert100000Time cost:2ms
+Query100000Time cost:2ms
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:21ms
+Query1000000Time cost:21ms
+Scale:10000000Proportion:1
+Insert10000000Time cost:344ms
+Query10000000Time cost:291ms
+开放寻址法(二次)
+Scale:100Proportion:1e-005
+Insert100Time cost:0ms
+Query100Time cost:0ms
+Scale:1000Proportion:0.0001
+Insert1000Time cost:0ms
+Query1000Time cost:0ms
+Scale:10000Proportion:0.001
+Insert10000Time cost:1ms
+Query10000Time cost:0ms
+Scale:100000Proportion:0.01
+Insert100000Time cost:2ms
+Query100000Time cost:2ms
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:13ms
+Query1000000Time cost:10ms
+Scale:10000000Proportion:1
+Insert10000000Time cost:129ms
+Query10000000Time cost:104ms
+顺序访问
+Scale:100Proportion:1e-005
+Insert100Time cost:0ms
+Query100Time cost:0ms
+Scale:1000Proportion:0.0001
+Insert1000Time cost:0ms
+Query1000Time cost:1ms
+Scale:10000Proportion:0.001
+Insert10000Time cost:0ms
+Query10000Time cost:94ms
+Scale:100000Proportion:0.01
+Insert100000Time cost:0ms
+Query100000Time cost:4677ms
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:2ms
+
+
+开放寻址法(线性)大比例
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:15ms
+Query1000000Time cost:17ms
+Scale:2000000Proportion:0.2
+Insert2000000Time cost:52ms
+Query2000000Time cost:49ms
+Scale:3000000Proportion:0.3
+Insert3000000Time cost:89ms
+Query3000000Time cost:84ms
+Scale:4000000Proportion:0.4
+Insert4000000Time cost:129ms
+Query4000000Time cost:118ms
+Scale:5000000Proportion:0.5
+Insert5000000Time cost:167ms
+Query5000000Time cost:147ms
+Scale:6000000Proportion:0.6
+Insert6000000Time cost:211ms
+Query6000000Time cost:183ms
+Scale:7000000Proportion:0.7
+Insert7000000Time cost:251ms
+Query7000000Time cost:220ms
+Scale:8000000Proportion:0.8
+Insert8000000Time cost:295ms
+Query8000000Time cost:259ms
+Scale:9000000Proportion:0.9
+Insert9000000Time cost:352ms
+Query9000000Time cost:289ms
+开放寻址法(二次)大比例
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:14ms
+Query1000000Time cost:18ms
+Scale:2000000Proportion:0.2
+Insert2000000Time cost:30ms
+Query2000000Time cost:33ms
+Scale:3000000Proportion:0.3
+Insert3000000Time cost:48ms
+Query3000000Time cost:46ms
+Scale:4000000Proportion:0.4
+Insert4000000Time cost:63ms
+Query4000000Time cost:61ms
+Scale:5000000Proportion:0.5
+Insert5000000Time cost:79ms
+Query5000000Time cost:74ms
+Scale:6000000Proportion:0.6
+Insert6000000Time cost:97ms
+Query6000000Time cost:89ms
+Scale:7000000Proportion:0.7
+Insert7000000Time cost:123ms
+Query7000000Time cost:104ms
+Scale:8000000Proportion:0.8
+Insert8000000Time cost:137ms
+Query8000000Time cost:122ms
+Scale:9000000Proportion:0.9
+Insert9000000Time cost:160ms
+Query9000000Time cost:134ms
+顺序访问
+Scale:100Proportion:1e-005
+Insert100Time cost:0ms
+Query100Time cost:0ms
+Scale:1000Proportion:0.0001
+Insert1000Time cost:0ms
+Query1000Time cost:1ms
+Scale:10000Proportion:0.001
+Insert10000Time cost:0ms
+Query10000Time cost:94ms
+Scale:100000Proportion:0.01
+Insert100000Time cost:0ms
+Query100000Time cost:11154ms
+Scale:1000000Proportion:0.1
+Insert1000000Time cost:2ms

@@ -1,0 +1,12 @@
+Insert Scale:1000 Query Scale:100 Time Cost: 0ms  
+Insert Scale:1000 Query Scale:1000 Time Cost: 0ms 
+Insert Scale:1000 Query Scale:10000 Time Cost: 0ms
+Insert Scale:10000 Query Scale:1000 Time Cost: 0ms
+Insert Scale:10000 Query Scale:10000 Time Cost: 1ms
+Insert Scale:10000 Query Scale:100000 Time Cost: 8ms
+Insert Scale:100000 Query Scale:10000 Time Cost: 2ms
+Insert Scale:100000 Query Scale:100000 Time Cost: 28ms
+Insert Scale:100000 Query Scale:1000000 Time Cost: 184ms
+Insert Scale:1000000 Query Scale:100000 Time Cost: 69ms
+Insert Scale:1000000 Query Scale:1000000 Time Cost: 703ms
+Insert Scale:1000000 Query Scale:10000000 Time Cost: 6521ms

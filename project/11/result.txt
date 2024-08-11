@@ -1,0 +1,72 @@
+Title: Book 1 - The Philosopher's Stone.txt  
+After Huffman algorithm, it's length: 2330473
+It takes 78ms
+Encoding takes 37ms
+After encoding length: 492161
+Title: Book 2 - The Chamber of Secrets.txt   
+After Huffman algorithm, it's length: 2617640
+It takes 87ms
+Encoding takes 40ms
+After encoding length: 551186
+Title: Book 3 - The Prisoner of Azkaban.txt  
+After Huffman algorithm, it's length: 3348221
+It takes 110ms
+Encoding takes 52ms
+After encoding length: 702656
+Title: Book 4 - The Goblet of Fire.txt
+After Huffman algorithm, it's length: 5792400
+It takes 195ms
+Encoding takes 89ms
+After encoding length: 1226024
+Title: Book 5 - The Order of the Phoenix.txt
+After Huffman algorithm, it's length: 7894771
+It takes 262ms
+Encoding takes 122ms
+After encoding length: 1666165
+Title: Book 6 - The Half Blood Prince.txt
+After Huffman algorithm, it's length: 5186225
+It takes 169ms
+Encoding takes 81ms
+After encoding length: 1096150
+Title: Book 7 - The Deathly Hallows.txt
+After Huffman algorithm, it's length: 5974783
+It takes 210ms
+Encoding takes 93ms
+After encoding length: 1267060
+
+
+Title: Book 1 - The Philosopher's Stone.txt
+After normal algorithm, it's length: 3445127
+It takes 82ms
+Encoding takes 102ms
+After encoding length: 492161
+Title: Book 2 - The Chamber of Secrets.txt
+After normal algorithm, it's length: 3858302
+It takes 88ms
+Encoding takes 112ms
+After encoding length: 551186
+Title: Book 3 - The Prisoner of Azkaban.txt
+After normal algorithm, it's length: 4918592
+It takes 123ms
+Encoding takes 141ms
+After encoding length: 702656
+Title: Book 4 - The Goblet of Fire.txt
+After normal algorithm, it's length: 8582168
+It takes 203ms
+Encoding takes 251ms
+After encoding length: 1226024
+Title: Book 5 - The Order of the Phoenix.txt
+After normal algorithm, it's length: 11663155
+It takes 263ms
+Encoding takes 346ms
+After encoding length: 1666165
+Title: Book 6 - The Half Blood Prince.txt
+After normal algorithm, it's length: 7673050
+It takes 178ms
+Encoding takes 222ms
+After encoding length: 1096150
+Title: Book 7 - The Deathly Hallows.txt
+After normal algorithm, it's length: 8869420
+It takes 211ms
+Encoding takes 250ms
+After encoding length: 1267060
